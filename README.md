@@ -1,12 +1,33 @@
-# React + Vite
+# Profile Card Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Using the Concept of Atomic Design I have created Profile Editor that uses in-built Hooks 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo / Preview
 
-## Expanding the ESLint configuration
+<!-- Add a screenshot, video, or link to live demo -->
+![Demo Screenshot](./image.png)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- Uses Atomic Design Architecture
+- Live Preview
+
+---
+
+## Tech Stack
+
+**Client:** React / Tailwindcss
+---
+
+### Prerequisites
+
+- Node.js / 
+
+
+# Demo Image Url - 
+   https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png 
+   Consider that you want to test it just copy paste the url
